@@ -7,7 +7,7 @@ type square struct {
 	side float64
 }
 
-// declare a ype rect
+// declare a type rect
 type rect struct {
 	len float64
 	wid float64
